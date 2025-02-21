@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:open_safe/open_safe_page.dart';
 import 'package:open_safe/password_page.dart';
 
 void main() => runApp(const MyApp());
